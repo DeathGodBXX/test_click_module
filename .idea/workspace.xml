@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2261a88-2793-45a3-a13b-4787f9ea2564" name="Default Changelist" comment="test json" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test click module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="test json">
+      <created>1591949392998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591949392998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test json" />
+    <option name="LAST_COMMIT_MESSAGE" value="test json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="32" key="#Deployment" timestamp="1591929737215">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="444" y="32" key="#Deployment/0.0.1280.760@0.0.1280.760" timestamp="1591929737215" />
+    <state x="501" y="49" key="#Options" timestamp="1591929640966">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="501" y="49" key="#Options/0.0.1280.760@0.0.1280.760" timestamp="1591929640966" />
+    <state x="631" y="129" key="FileChooserDialogImpl" timestamp="1591929766521">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="631" y="129" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591929766521" />
+    <state x="556" y="283" width="294" height="278" key="Github.ShareDialog" timestamp="1591929141394">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="556" y="283" width="294" height="278" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1591929141394" />
+    <state width="729" height="2" key="GridCell.Tab.0.bottom" timestamp="1591949494245">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="729" height="2" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1591949494245" />
+    <state width="729" height="2" key="GridCell.Tab.0.center" timestamp="1591949494245">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="729" height="2" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1591949494245" />
+    <state width="729" height="2" key="GridCell.Tab.0.left" timestamp="1591949494244">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="729" height="2" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1591949494244" />
+    <state width="729" height="2" key="GridCell.Tab.0.right" timestamp="1591949494245">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="729" height="2" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1591949494245" />
+    <state x="183" y="35" key="SettingsEditor" timestamp="1591929835937">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="183" y="35" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1591929835937" />
+    <state x="444" y="107" key="Vcs.Push.Dialog.v2" timestamp="1591949414235">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="444" y="107" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591949414235" />
+    <state x="512" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1591949225813">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="512" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1591949225813" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test_click_module$test.coverage" NAME="test Coverage Results" MODIFIED="1591949084911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
